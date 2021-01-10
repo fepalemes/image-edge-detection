@@ -10,3 +10,11 @@ Java edge detection application with the possibility of using the filters: Sobel
 /___/_____/_____/           /_/   /___/_____/_/ /_____/_/ |_|/____/  
                                                                      
 ```
+
+Gray scale followed by filters
+
+![](content-readme/grey-scale-with-filters.gif)
+
+Filters only
+
+![](content-readme/filters.gif)

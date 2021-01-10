@@ -1,6 +1,6 @@
 # Image Edge Detection
 
-Java edge detection application with the possibility of using the filters: Sobel, Roberts and Laplacian.
+Java edge detection application with the possibility of using the filters: Prewit, Sobel, Roberts and Laplacian.
 
 ```
     ______________              ____________  ________________  _____
